@@ -1,6 +1,6 @@
+output_raw/
+output_transformed/
 venv-beam-1/
 *.db
 __pycache__/
 auth_api
-/home/ruckert/dev/beam_project_1/output_raw/
-/home/ruckert/dev/beam_project_1/output_transformed/
