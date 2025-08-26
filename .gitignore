@@ -1,0 +1,4 @@
+venv-beam-1/
+*.db
+__pycache__/
+auth_api
