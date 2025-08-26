@@ -8,7 +8,7 @@ A pipeline é construída com o framework Apache Beam, o que a torna escalável 
 
 ### Diagrama do projeto
 
-![Diagrama da Pipeline](files/arquitetura_projeto_v1.png)
+![Diagrama da Pipeline](files/Arquitetura_projeto_v1.png)
 
 ---
 
@@ -50,4 +50,5 @@ venv\Scripts\activate     # Windows
 
 # Instale as dependências
 pip install apache-beam requests
+
 
