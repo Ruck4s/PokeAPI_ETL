@@ -1,5 +1,3 @@
-output_raw/
-output_transformed/
 venv-beam-1/
 *.db
 __pycache__/
