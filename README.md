@@ -6,6 +6,14 @@ A pipeline é construída com o framework Apache Beam, o que a torna escalável 
 
 ---
 
+### Diagrama do projeto
+
+![Diagrama da Pipeline](files/arquitetura_projeto_v1.png)
+
+---
+
+---
+
 ### Funcionalidades
 
 - **Extração (Extract):** Conecta-se à PokéAPI para buscar dados de Pokémon.
@@ -42,3 +50,4 @@ venv\Scripts\activate     # Windows
 
 # Instale as dependências
 pip install apache-beam requests
+
